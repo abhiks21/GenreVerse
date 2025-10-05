@@ -1,0 +1,17 @@
+# Datasets
+data/
+dataset/
+*.wav
+*.mp3
+*.npy
+*.png
+
+# Models
+*.h5
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Cache
+__pycache__/
